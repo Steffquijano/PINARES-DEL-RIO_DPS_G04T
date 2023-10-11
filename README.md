@@ -16,7 +16,7 @@ Se entrega el prototipo de página web con los contenidos vistos a lo largo de l
 Estos son algunos de los archivos alojados y que se encontraran dentro de nuestro repositorio.
 </p>
 
-####carpeta CSS:
+#carpeta CSS:
 https://github.com/Steffquijano/PINARES-DEL-RIO_DPS_G04T/tree/main/css
 Dentro de esta carpeta podrán ser encontrados los diferentes archivos css utilizados para dar estilos a los archivos HTML. los cuales son: 
 blog.css
