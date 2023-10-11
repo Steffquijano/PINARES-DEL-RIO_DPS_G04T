@@ -67,4 +67,8 @@ Procesar Formulario.
 https://github.com/Steffquijano/PINARES-DEL-RIO_DPS_G04T/blob/main/procesar_formulario.php
 El siguiente Código se utilizó para realizar la conexión de nuestro formulario a una base de datos MYSQL.
 
+Carpeta bocetos
+https://github.com/Steffquijano/PINARES-DEL-RIO_DPS_G04T/tree/main/bocetos
+en esta carpeta estan alojados los bocetos wireframe que se utilizaron para estructurar nuestra pagina web.
+
 Estos son los archivos alojados en nuestro repositorio.
