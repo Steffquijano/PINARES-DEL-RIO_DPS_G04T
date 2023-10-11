@@ -16,7 +16,7 @@ Se entrega el prototipo de página web con los contenidos vistos a lo largo de l
 Estos son algunos de los archivos alojados y que se encontraran dentro de nuestro repositorio.
 </p>
 
-#carpeta CSS:
+carpeta CSS:
 https://github.com/Steffquijano/PINARES-DEL-RIO_DPS_G04T/tree/main/css
 Dentro de esta carpeta podrán ser encontrados los diferentes archivos css utilizados para dar estilos a los archivos HTML. los cuales son: 
 blog.css
@@ -28,7 +28,7 @@ quienessomos.css
 servicios.css
 style.css
 
-####carpeta HTML
+carpeta HTML
 https://github.com/Steffquijano/PINARES-DEL-RIO_DPS_G04T/tree/main/html
 Dentro de esta carpeta podrán ser encontrados los diferentes archivos HTML utilizados para para la creación de nuestra página. dentro de esta carpeta se encuentran los siguientes archivos:
 blog.html
@@ -47,23 +47,23 @@ quienessomos.html
 recubrimientos.html
 servicios.html
 
-####carpeta img
+carpeta img
 https://github.com/Steffquijano/PINARES-DEL-RIO_DPS_G04T/tree/main/img
 dentro de esta carpeta se encuentran alojadas algunas de las imágenes de productos utilizadas dentro de nuestra página web.
 
-####carpeta img2
+carpeta img2
 https://github.com/Steffquijano/PINARES-DEL-RIO_DPS_G04T/tree/main/img2
 Al igual que en la carpeta anterior dentro de esta carpeta se encuentran alojados más de los recursos gráficos que han sido utilizados dentro de nuestra página web.
 
-####Formulario
+Formulario
 https://github.com/Steffquijano/PINARES-DEL-RIO_DPS_G04T/blob/main/formulario.html
 Se evidencia el uso de formularios y la implementación dentro de nuestra página web.
 
-####Index.html
+Index.html
 https://github.com/Steffquijano/PINARES-DEL-RIO_DPS_G04T/blob/main/index.html
 Se evidencia la creación del Código HTML de nuestra página web.
 
-####Procesar Formulario.
+Procesar Formulario.
 https://github.com/Steffquijano/PINARES-DEL-RIO_DPS_G04T/blob/main/procesar_formulario.php
 El siguiente Código se utilizó para realizar la conexión de nuestro formulario a una base de datos MYSQL.
 
